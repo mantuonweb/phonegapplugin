@@ -1,0 +1,17 @@
+{
+  "name": "HelloEcho",
+  "version": "0.0.1",
+  "description": "A cordova demo plugin that echo the message send using call back",
+  "cordova": {
+    "id": "cordova-plugin-hello-echo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Mantu",
+  "license": "ISC"
+}
