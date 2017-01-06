@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A cordova demo plugin that echo the message send using call back",
   "cordova": {
-    "id": "cordova-plugin-hello-echo",
+    "id": "cordova.plugins.helloecho",
     "platforms": [
       "android"
     ]

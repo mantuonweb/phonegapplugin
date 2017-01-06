@@ -1,4 +1,4 @@
-package cordova-plugin-hello-echo;
+package cordova.plugins.helloecho;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
